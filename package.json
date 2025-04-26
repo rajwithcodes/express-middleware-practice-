@@ -1,0 +1,17 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "Learning middleWare",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "author": "Raj Singhania",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
